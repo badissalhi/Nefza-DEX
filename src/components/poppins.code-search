@@ -1,0 +1,20 @@
+# Query: poppins
+# ContextLines: 1
+
+4 results - 1 file
+
+src/App.css:
+    1: @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+    2  
+
+   21  html {
+   22:     font-family: "Montserrat";
+   23      color: var(--clr-white);
+
+  500  
+  501:     font-family: "Montserrat";
+  502      font-weight: 400;
+
+  531  
+  532:     font-family: "Montserrat";
+  533      font-weight: 500;
