@@ -2,8 +2,6 @@
 
 This project demonstrates a Decentralized Exchange use case. It comes with smart contracts, a test for these contracts and scripts that deploys that contract.
 
-# Carthago Flashloan Trading bot
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
