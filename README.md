@@ -11,5 +11,5 @@ This project demonstrates a Decentralized Exchange use case. It comes with smart
 - [Alchemy](https://www.alchemy.com/) (For node to connect to the blockchain)
 
 
-### [Visit live application](https://green-bread-6921.on.fleek.co)
+### [Try it on Ethereum Goerli Test Network](https://green-bread-6921.on.fleek.co)
 
